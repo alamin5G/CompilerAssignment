@@ -1,0 +1,8 @@
+134
+$hello world$
+134abc
+if else
+3.14
+// single line comment
+/* multi line comment */
+
